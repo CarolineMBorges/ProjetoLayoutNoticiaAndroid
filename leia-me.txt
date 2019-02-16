@@ -1,0 +1,2 @@
+Este projeto apenas mostra a formatação e o uso de de certos itens em layouts,
+no caso demonstra uma página de noticias.
